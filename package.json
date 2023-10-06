@@ -1,10 +1,10 @@
 {
-  "name": "tw-elements",
+  "name": "nocode-elements",
   "version": "1.0.0",
   "type": "module",
   "license": "AGPL",
   "homepage": "https://tailwind-elements.com/",
-  "author": "MDBootstrap <office@mdbootstrap.com>",
+  "author": "Hanzala-Ahmed <hanzala.ahmed181@gmail.com>",
   "style": "./dist/css/index.min.css",
   "sass": "./src/scss/tailwind.scss",
   "main": "./dist/js/tw-elements.umd.min.js",
